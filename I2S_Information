@@ -1,0 +1,13 @@
+I2S:
+I2S Digital Audio Data Serial Interface
+The I2S but is an peer to peer unidirectional audio bus for streaming audio from a to b with no guarantees at all. 
+
+I2C vs I2S:
+The I2C bus is a bidirectional bus for moving commands and data between multiple devices with arbitration between them.
+I2S is a 3-wire interface, I2C is a bidirectional two wire interface.
+
+More Info:
+https://www.silabs.com/community/blog.entry.html/2016/10/18/high_quality_audiow-tiTN
+https://www.analog.com/media/en/technical-documentation/technical-articles/MS-2275.pdf
+http://read.pudn.com/downloads95/doc/comm/386760/Philips_I2S.pdf
+https://www.sparkfun.com/datasheets/BreakoutBoards/I2SBUS.pdf
